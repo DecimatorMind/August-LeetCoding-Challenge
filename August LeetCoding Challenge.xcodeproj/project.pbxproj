@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		104DC30E24D589A900B76A09 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 104DC30D24D589A900B76A09 /* main.cpp */; };
+		104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 104DC31524D589D100B76A09 /* Detect_Capital.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		104DC30A24D589A900B76A09 /* August LeetCoding Challenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "August LeetCoding Challenge"; sourceTree = BUILT_PRODUCTS_DIR; };
-		104DC30D24D589A900B76A09 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		104DC31524D589D100B76A09 /* Detect_Capital.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Detect_Capital.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +57,17 @@
 		104DC30C24D589A900B76A09 /* August LeetCoding Challenge */ = {
 			isa = PBXGroup;
 			children = (
-				104DC30D24D589A900B76A09 /* main.cpp */,
+				104DC31424D589B500B76A09 /* Week 1 */,
 			);
 			path = "August LeetCoding Challenge";
+			sourceTree = "<group>";
+		};
+		104DC31424D589B500B76A09 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				104DC31524D589D100B76A09 /* Detect_Capital.cpp */,
+			);
+			path = "Week 1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				104DC30E24D589A900B76A09 /* main.cpp in Sources */,
+				104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
