@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 104DC31524D589D100B76A09 /* Detect_Capital.cpp */; };
+		1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */; };
+		1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */; };
+		1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		104DC30A24D589A900B76A09 /* August LeetCoding Challenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "August LeetCoding Challenge"; sourceTree = BUILT_PRODUCTS_DIR; };
 		104DC31524D589D100B76A09 /* Detect_Capital.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Detect_Capital.cpp; sourceTree = "<group>"; };
+		1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Power_of_Four.cpp; sourceTree = "<group>"; };
+		1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Valid_Palindrome.cpp; sourceTree = "<group>"; };
+		1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Design_HashSet.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +71,9 @@
 		104DC31424D589B500B76A09 /* Week 1 */ = {
 			isa = PBXGroup;
 			children = (
+				1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */,
+				1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */,
+				1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */,
 				104DC31524D589D100B76A09 /* Detect_Capital.cpp */,
 			);
 			path = "Week 1";
@@ -127,6 +136,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */,
+				1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */,
+				1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */,
 				104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
