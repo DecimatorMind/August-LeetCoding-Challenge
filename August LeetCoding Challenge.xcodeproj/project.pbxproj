@@ -11,6 +11,7 @@
 		1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */; };
 		1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */; };
 		1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */; };
+		108318CE24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Power_of_Four.cpp; sourceTree = "<group>"; };
 		1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Valid_Palindrome.cpp; sourceTree = "<group>"; };
 		1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Design_HashSet.cpp; sourceTree = "<group>"; };
+		108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Find_All_Duplicates_in_an_Array.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */,
 				1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */,
 				104DC31524D589D100B76A09 /* Detect_Capital.cpp */,
+				108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */,
 			);
 			path = "Week 1";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */,
 				1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */,
 				1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */,
+				108318CE24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp in Sources */,
 				104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
