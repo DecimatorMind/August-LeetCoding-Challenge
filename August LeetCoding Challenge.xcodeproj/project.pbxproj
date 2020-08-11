@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		101C9FF024E2D29F00E0D9A7 /* H-Index.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 101C9FEF24E2D29F00E0D9A7 /* H-Index.cpp */; };
 		104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 104DC31524D589D100B76A09 /* Detect_Capital.cpp */; };
 		1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */; };
 		1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		101C9FEF24E2D29F00E0D9A7 /* H-Index.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H-Index.cpp"; sourceTree = "<group>"; };
 		104DC30A24D589A900B76A09 /* August LeetCoding Challenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "August LeetCoding Challenge"; sourceTree = BUILT_PRODUCTS_DIR; };
 		104DC31524D589D100B76A09 /* Detect_Capital.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Detect_Capital.cpp; sourceTree = "<group>"; };
 		1078BADE24DACFF40089A4CC /* Power_of_Four.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Power_of_Four.cpp; sourceTree = "<group>"; };
@@ -46,6 +48,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		101C9FEE24E2D28500E0D9A7 /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				101C9FEF24E2D29F00E0D9A7 /* H-Index.cpp */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
 		104DC30124D589A900B76A09 = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				104DC31424D589B500B76A09 /* Week 1 */,
+				101C9FEE24E2D28500E0D9A7 /* Week 2 */,
 			);
 			path = "August LeetCoding Challenge";
 			sourceTree = "<group>";
@@ -142,6 +153,7 @@
 				1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */,
 				1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */,
 				1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */,
+				101C9FF024E2D29F00E0D9A7 /* H-Index.cpp in Sources */,
 				108318CE24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp in Sources */,
 				104DC31624D589D100B76A09 /* Detect_Capital.cpp in Sources */,
 			);
