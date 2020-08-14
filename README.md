@@ -1,3 +1,5 @@
+<img src = "https://img.shields.io/badge/Language-CPP-blue">  <img src = "https://img.shields.io/badge/Site-LeetCode-yellow">  <img src = "https://img.shields.io/badge/Challenge-August-red">
+
 # August-LeetCoding-Challenge
 LeetCoding Challenge August
 
