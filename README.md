@@ -3,7 +3,7 @@
 # August-LeetCoding-Challenge
 LeetCoding Challenge August
 
-# Important Information
+# Important
 This repository does not contain solution for all the answers. Since every day a new question is added which must be solved but to the extent i have learnt CPP, the solutions provided will be the better and faster but not for every question, so they are not in this repo.
 
 # Info
