@@ -13,6 +13,7 @@
 		1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */; };
 		1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */; };
 		108318CE24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */; };
+		108E8ED124EC224900FC19A8 /* Numbers_With_Same_Consecutive_Differences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 108E8ED024EC224900FC19A8 /* Numbers_With_Same_Consecutive_Differences.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		1078BADF24DACFF40089A4CC /* Valid_Palindrome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Valid_Palindrome.cpp; sourceTree = "<group>"; };
 		1078BAE024DACFF40089A4CC /* Design_HashSet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Design_HashSet.cpp; sourceTree = "<group>"; };
 		108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Find_All_Duplicates_in_an_Array.cpp; sourceTree = "<group>"; };
+		108E8ED024EC224900FC19A8 /* Numbers_With_Same_Consecutive_Differences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Numbers_With_Same_Consecutive_Differences.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				104DC31424D589B500B76A09 /* Week 1 */,
 				101C9FEE24E2D28500E0D9A7 /* Week 2 */,
+				10F7CB3624EB7A30001D0A73 /* Week 3 */,
 			);
 			path = "August LeetCoding Challenge";
 			sourceTree = "<group>";
@@ -91,6 +94,14 @@
 				108318CD24DC7C3000791F64 /* Find_All_Duplicates_in_an_Array.cpp */,
 			);
 			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		10F7CB3624EB7A30001D0A73 /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				108E8ED024EC224900FC19A8 /* Numbers_With_Same_Consecutive_Differences.cpp */,
+			);
+			path = "Week 3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1078BAE324DACFF50089A4CC /* Design_HashSet.cpp in Sources */,
+				108E8ED124EC224900FC19A8 /* Numbers_With_Same_Consecutive_Differences.cpp in Sources */,
 				1078BAE224DACFF50089A4CC /* Valid_Palindrome.cpp in Sources */,
 				1078BAE124DACFF50089A4CC /* Power_of_Four.cpp in Sources */,
 				101C9FF024E2D29F00E0D9A7 /* H-Index.cpp in Sources */,
