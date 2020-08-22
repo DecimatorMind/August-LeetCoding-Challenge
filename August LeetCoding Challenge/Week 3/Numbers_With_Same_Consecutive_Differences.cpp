@@ -24,7 +24,7 @@ void rcheck(int num,int k,int n){
         }
     }
 }
-int main() {
+int numbers_with_some_consecutive_differences() {
     int n {3},k {7};
     for(int i=1;i<10;i++){
         rcheck(i,k,n);
