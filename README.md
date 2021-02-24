@@ -16,3 +16,32 @@ The name of the files are the same as the question names.
 # How To Use
 Since leetcode provides in function solutions, you can delete the non required parts and use the solution.
 Remove the printing parts and return required statements.
+
+# File Structure
+
+    ├── August\ LeetCoding\ Challenge
+    │   ├── Week\ 1
+    │   │   ├── Design_HashSet.cpp
+    │   │   ├── Detect_Capital.cpp
+    │   │   ├── Find_All_Duplicates_in_an_Array.cpp
+    │   │   ├── Power_of_Four.cpp
+    │   │   └── Valid_Palindrome.cpp
+    │   ├── Week\ 2
+    │   │   └── H-Index.cpp
+    │   └── Week\ 3
+    │       ├── Numbers_With_Same_Consecutive_Differences.cpp
+    │       └── Sort_Array_By_Parity.cpp
+    ├── August\ LeetCoding\ Challenge.xcodeproj
+    │   ├── project.pbxproj
+    │   ├── project.xcworkspace
+    │   │   ├── contents.xcworkspacedata
+    │   │   ├── xcshareddata
+    │   │   │   └── IDEWorkspaceChecks.plist
+    │   │   └── xcuserdata
+    │   │       └── pranjalbhardwaj.xcuserdatad
+    │   │           └── UserInterfaceState.xcuserstate
+    │   └── xcuserdata
+    │       └── pranjalbhardwaj.xcuserdatad
+    │           └── xcschemes
+    │               └── xcschememanagement.plist
+    └── README.md
